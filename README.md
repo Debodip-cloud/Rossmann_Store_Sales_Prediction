@@ -1,3 +1,4 @@
+app: https://rossmannstoresalesprediction-i4rqpok9dh5pghxu62v5bz.streamlit.app/
 🛒 Rossmann Store Sales Prediction
 
 This project predicts daily sales for Rossmann stores using machine learning and time series feature engineering. It also includes an interactive web app built with Streamlit.
